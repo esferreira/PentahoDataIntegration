@@ -1,0 +1,29 @@
+DEBUG: Using PENTAHO_JAVA_HOME
+DEBUG: _PENTAHO_JAVA_HOME=C:\Program Files\Java\jre1.8.0_331
+DEBUG: _PENTAHO_JAVA=C:\Program Files\Java\jre1.8.0_331\bin\java.exe
+
+C:\data-integration>"C:\Program Files\Java\jre1.8.0_331\bin\java.exe"   "-Xms1024m" "-Xmx2048m" "-Djava.library.path=libswt\win64;/bin" "-Djava.endorsed.dirs=C:\Program Files\Java\jre1.8.0_331\jre\lib\endorsed;C:\Program Files\Java\jre1.8.0_331\lib\endorsed;C:\data-integration\system\karaf\lib\endorsed"  "-DKETTLE_HOME=" "-DKETTLE_REPOSITORY=" "-DKETTLE_USER=" "-DKETTLE_PASSWORD=" "-DKETTLE_PLUGIN_PACKAGES=" "-DKETTLE_LOG_SIZE_LIMIT=" "-DKETTLE_JNDI_ROOT=" -jar launcher\launcher.jar -lib ..\libswt\win64  -main org.pentaho.di.pan.Pan -initialDir "C:\Users\ecferrei"\ /rep:"etl_pentaho" /user:admin /pass:admin /dir:/DESENVOLVIMENTO /trans:"00.OLA_MUNDO" /level:Basic 
+19:47:43,225 INFO  [KarafBoot] Checking to see if org.pentaho.clean.karaf.cache is enabled
+19:47:49,611 INFO  [KarafInstance] 
+*******************************************************************************
+*** Karaf Instance Number: 3 at C:\data-integration\.\system\karaf\caches\p ***
+***   an\data-1                                                             ***
+*** Karaf Port:8804                                                         ***
+*** OSGI Service Port:9053                                                  ***
+*******************************************************************************
+19:48:18,470 INFO  [DriverManager] Installing driver kars.
+19:48:18,485 INFO  [DriverManager] 0 drivers will be installed.
+19:48:18,487 INFO  [DriverManager] Finished installing drivers kars.
+2022/07/03 19:48:37 - Pan - Logging is at level : Log básico
+2022/07/03 19:48:37 - Pan - Start of run.
+2022/07/03 19:48:37 - RepositoriesMeta - Reading repositories XML file: C:\Users\ecferrei\.kettle\repositories.xml
+2022/07/03 19:48:56 - 00.OLA_MUNDO - Expedindo in?cio para transforma??o [00.OLA_MUNDO]
+2022/07/03 19:48:56 - Gerar 10 linhas.0 - Finished processing (I=0, O=0, R=0, W=10, U=0, E=0)
+2022/07/03 19:48:57 - Dummy (do nothing).0 - Finished processing (I=0, O=0, R=10, W=10, U=0, E=0)
+2022/07/03 19:48:57 - Carte - Installing timer to purge stale objects after 1440 minutes.
+2022/07/03 19:48:57 - Pan - Finished!
+2022/07/03 19:48:57 - Pan - Start=2022/07/03 19:48:56.926, Stop=2022/07/03 19:48:57.048
+2022/07/03 19:48:57 - Pan - Processing ended after 0 seconds.
+2022/07/03 19:48:57 - 00.OLA_MUNDO -  
+2022/07/03 19:48:57 - 00.OLA_MUNDO - Processo Gerar 10 linhas.0 fnializado com sucesso, processadas 10 linhas. ( - linhas/s)
+2022/07/03 19:48:57 - 00.OLA_MUNDO - Processo Dummy (do nothing).0 fnializado com sucesso, processadas 10 linhas. ( - linhas/s)

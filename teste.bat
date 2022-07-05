@@ -1,0 +1,1 @@
+C:/data-integration/Pan.bat /rep:"etl_pentaho" /user:admin /pass:admin /dir:/DESENVOLVIMENTO /trans:"00.OLA_MUNDO" /level:Basic >> D:/CursoPentaho/arquivos/logs/ola_mundo_log.txt
