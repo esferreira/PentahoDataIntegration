@@ -1,0 +1,62 @@
+CATEGORIA			,	CODIGO,	SUBCATEGORIA, ITEM
+PÃES E CAFÉ DA MANHÃ,	2,	null,	Pão
+PÃES E CAFÉ DA MANHÃ,	2,	null,	Biscoitos
+PÃES E CAFÉ DA MANHÃ,	2,	null,	Pãezinhos
+PÃES E CAFÉ DA MANHÃ,	2,	null,	Tortilhas
+PÃES E CAFÉ DA MANHÃ,	2,	null,	Cereais 
+PÃES E CAFÉ DA MANHÃ,	2,	null,	Farinha de aveia
+PÃES E CAFÉ DA MANHÃ,	2,	null,	Assados
+GELADEIRA			,	1,	Aves domésticas,	Bacon
+GELADEIRA			,	1,	Aves domésticas,	Frango
+GELADEIRA,	1,	Aves domésticas,	Carne
+GELADEIRA,	1,	Aves domésticas,	Cachorro quente
+GELADEIRA,	1,	Aves domésticas,	Linguiça
+GELADEIRA,	1,	Aves domésticas,	Peixe
+GELADEIRA,	1,	Bebidas,	Suco
+GELADEIRA,	1,	Bebidas,	Leite
+GELADEIRA,	1,	Bebidas,	Agua
+GELADEIRA,	1,	Laticínios,	Manteiga
+GELADEIRA,	1,	Laticínios,	Queijo
+GELADEIRA,	1,	Laticínios,	Ovos
+GELADEIRA,	1,	Laticínios,	Creme de leite
+GELADEIRA,	1,	Laticínios,	Iogurte
+GELADEIRA,	1,	Hortifrutigranjeiro,	Maçãs
+GELADEIRA,	1,	Hortifrutigranjeiro,	Abacate
+GELADEIRA,	1,	Hortifrutigranjeiro,	Bananas
+GELADEIRA,	1,	Hortifrutigranjeiro,	Aipo
+GELADEIRA,	1,	Hortifrutigranjeiro,	Pepino
+GELADEIRA,	1,	Hortifrutigranjeiro,	Alho
+GELADEIRA,	1,	Hortifrutigranjeiro,	Toranja
+GELADEIRA,	1,	Hortifrutigranjeiro,	Uvas
+GELADEIRA,	1,	Hortifrutigranjeiro,	Alface
+GELADEIRA,	1,	Hortifrutigranjeiro,	Cogumelos
+GELADEIRA,	1,	Hortifrutigranjeiro,	Cogumelos
+GELADEIRA,	1,	Hortifrutigranjeiro,	Cogumelos
+GELADEIRA,	1,	Hortifrutigranjeiro,	Cebolas
+GELADEIRA,	1,	Hortifrutigranjeiro,	Laranjas
+GELADEIRA,	1,	Hortifrutigranjeiro,	Abóbora
+GELADEIRA,	1,	Hortifrutigranjeiro,	Tomate
+CONGELADOS,	9,	null,	Carne
+CONGELADOS,	9,	null,	Pizza
+CONGELADOS,	9,	null,	Prato feito
+CONGELADOS,	9,	null,	Sorvete
+CONGELADOS,	9,	null,	Waffle
+CONGELADOS,	9,	null,	Vegetais
+LATAS/JARROS,	8,	null,	Frutas
+LATAS/JARROS,	8,	null,	Vegetais
+LATAS/JARROS,	8,	null,	Compota
+LATAS/JARROS,	8,	null,	Geléia
+LATAS/JARROS,	8,	null,	Manteiga de amendoim
+LATAS/JARROS,	8,	null,	Sopa
+LATAS/JARROS,	8,	null,	Pimenta
+CONDIMENTOS,	4,	null,	Ketchup
+CONDIMENTOS,	4,	null,	Maionese
+CONDIMENTOS,	4,	null,	Mostarda
+CONDIMENTOS,	4,	null,	Óleo
+CONDIMENTOS,	4,	null,	Molho para salada
+CONDIMENTOS,	4,	null,	Temperos
+LANCHES,	5,	null,	Batatas fritas
+LANCHES,	5,	null,	Bolinhos
+LANCHES,	5,	null,	Doces
+LANCHES,	5,	null,	Chocolate
+LANCHES,	5,	null,	Nozes
